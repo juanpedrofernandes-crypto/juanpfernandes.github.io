@@ -1,11 +1,11 @@
 # juanpfernandes.github.io
-# 🌐 Portafolio Profesional — Juan P Fernandes
+# 🌐 Professional Portfolio — Juan P Fernandes
 
-Este es mi **sitio web personal y portafolio profesional**, donde presento mi trayectoria como **líder global en Supply Chain & Logistics**, incluyendo mi experiencia, certificaciones, idiomas, reconocimientos y medios de contacto.
+"This is my personal website and professional portfolio, where I showcase my career as a global leader in Supply Chain & Logistics, including my experience, certifications, languages, recognitions, and contact information."
 
 ---
 
-## 🧭 Descripción
+## 🧭 Descripcion
 
 Este sitio está diseñado para transmitir una imagen **corporativa, moderna y elegante**, optimizado para verse correctamente en computadoras y dispositivos móviles.
 
